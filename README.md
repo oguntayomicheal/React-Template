@@ -7,8 +7,6 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Appointment\_booker\_front\_end\] ](#-appointment_booker_front_end-)
   - [Link to the back-end repo](#link-to-the-back-end-repo)
-  - [Link to the kanbarn board](#link-to-the-kanbarn-board)
-  - [Link to the kanbarn board at its initial state](#link-to-the-kanbarn-board-at-its-initial-state)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
