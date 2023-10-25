@@ -66,7 +66,7 @@ Clone this repository to your desired folder:
 
 ```
   git clone https://github.com/
-  cd appointment_booker_frontend
+  cd .....
 ```
 
 ### Install
@@ -74,7 +74,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```
-  cd appointment_booker_frontend
   npm install
 ```
 
